@@ -1,0 +1,480 @@
+[
+  {
+    "head": "BRAF V600E突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "达拉非尼（Dabrafenib）+ 曲美替尼（Trametinib）",
+    "source": "BRF113928研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "27362229"
+  },
+  {
+    "head": "RET融合阳性NSCLC",
+    "relation": "一线靶向治疗推荐",
+    "tail": "塞普替尼（Selpercatinib，LOXO-292）",
+    "source": "LIBRETTO-431研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.92,
+    "pmid": "37716997"
+  },
+  {
+    "head": "RET融合阳性NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "普拉替尼（Pralsetinib，BLU-667）",
+    "source": "ARROW研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "34689204"
+  },
+  {
+    "head": "MET 14外显子跳跃突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "赛沃替尼（Savolitinib）",
+    "source": "NCT02897479研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.88,
+    "pmid": "34027718"
+  },
+  {
+    "head": "MET 14外显子跳跃突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "卡马替尼（Capmatinib，INC280）",
+    "source": "GEOMETRY mono-1研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.88,
+    "pmid": "32275734"
+  },
+  {
+    "head": "NTRK融合阳性NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "拉罗替尼（Larotrectinib）或恩曲替尼（Entrectinib）",
+    "source": "LOXO-TRK系列研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "30562586"
+  },
+  {
+    "head": "HER2突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "德喜曲妥珠单抗（T-DXd，DS-8201）",
+    "source": "DESTINY-Lung01研究 / CSCO NSCLC 2024",
+    "evidence": "II级",
+    "domain": "系统治疗",
+    "confidence": 0.85,
+    "pmid": "34001966"
+  },
+  {
+    "head": "EGFR 20外显子插入突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "埃万妥单抗（Amivantamab，JNJ-61186372）",
+    "source": "CHRYSALIS研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.88,
+    "pmid": "34315872"
+  },
+  {
+    "head": "EGFR 20外显子插入突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "莫博赛替尼（Mobocertinib，TAK-788）",
+    "source": "EXCLAIM研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.85,
+    "pmid": "34520458"
+  },
+  {
+    "head": "ALK阳性NSCLC",
+    "relation": "一线靶向治疗推荐",
+    "tail": "洛拉替尼（Lorlatinib）",
+    "source": "CROWN研究 (NCT03052608) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.93,
+    "pmid": "33176090"
+  },
+  {
+    "head": "ALK阳性NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "塞瑞替尼（Ceritinib）450mg随餐服用",
+    "source": "ASCEND-4研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "29301137"
+  },
+  {
+    "head": "ALK阳性NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "布格替尼（Brigatinib）",
+    "source": "ALTA-1L研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "31142430"
+  },
+  {
+    "head": "ROS1阳性NSCLC",
+    "relation": "一线靶向治疗推荐",
+    "tail": "劳拉替尼（Lorlatinib）",
+    "source": "CROWN研究延伸研究 / CSCO NSCLC 2024",
+    "evidence": "II级",
+    "domain": "系统治疗",
+    "confidence": 0.85,
+    "pmid": "31434735"
+  },
+  {
+    "head": "早期NSCLC",
+    "relation": "辅助靶向治疗推荐",
+    "tail": "奥希替尼用于EGFR突变阳性IB-IIIA期术后辅助",
+    "source": "ADAURA研究 (NCT02511106) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "32616493"
+  },
+  {
+    "head": "III期NSCLC",
+    "relation": "巩固治疗推荐",
+    "tail": "度伐利尤单抗（Durvalumab）同步放化疗后巩固",
+    "source": "PACIFIC研究 (NCT02125461) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "29263390"
+  },
+  {
+    "head": "小细胞肺癌局限期",
+    "relation": "标准治疗推荐",
+    "tail": "同步放化疗（顺铂+依托泊苷+放疗）",
+    "source": "CSCO SCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "小细胞肺癌广泛期",
+    "relation": "一线免疫联合化疗推荐",
+    "tail": "斯鲁利单抗（Serplulimab）+ 卡铂 + 依托泊苷",
+    "source": "ASTRUM-005研究 / CSCO SCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "36495989"
+  },
+  {
+    "head": "小细胞肺癌广泛期",
+    "relation": "一线免疫联合化疗推荐",
+    "tail": "阿得贝利单抗（SQNN-311）+ 卡铂 + 依托泊苷",
+    "source": "CAPSTONE-1研究 / CSCO SCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "36735589"
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "二线治疗推荐",
+    "tail": "芦比替定（Lurbinectedin）",
+    "source": "ATLANTIS研究 / CSCO SCLC 2024",
+    "evidence": "II级",
+    "domain": "系统治疗",
+    "confidence": 0.80
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "三线及后线治疗推荐",
+    "tail": "安罗替尼（Anlotinib）",
+    "source": "ALTER1202研究 / CSCO SCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.85,
+    "pmid": "31539501"
+  },
+  {
+    "head": "NSCLC",
+    "relation": "抗血管生成治疗推荐",
+    "tail": "贝伐珠单抗（Bevacizumab）+ 含铂双药化疗",
+    "source": "ECOG 4599研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.88,
+    "pmid": "16990777"
+  },
+  {
+    "head": "NSCLC",
+    "relation": "抗血管生成治疗推荐",
+    "tail": "重组人血管内皮抑制素（恩度）+ NP方案",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.85
+  },
+  {
+    "head": "晚期NSCLC",
+    "relation": "免疫治疗疗效预测标志物",
+    "tail": "PD-L1表达水平（TPS≥1%或≥50%）",
+    "source": "KEYNOTE系列研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "分子标志物",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "免疫治疗伴随诊断标志物",
+    "tail": "肿瘤突变负荷（TMB≥10 mut/Mb）",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "II级",
+    "domain": "分子标志物",
+    "confidence": 0.80
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "耐药后检测推荐",
+    "tail": "应进行T790M突变检测指导后续治疗",
+    "source": "AURA系列研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "分子标志物",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "NGS检测基因数量推荐",
+    "tail": "推荐使用≥200基因的NGS panel进行检测",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "分子标志物",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC",
+    "relation": "液体活检适用场景",
+    "tail": "无法获取组织标本时的替代方案",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "II级",
+    "domain": "分子标志物",
+    "confidence": 0.85
+  },
+  {
+    "head": "ALK阳性NSCLC",
+    "relation": "耐药后检测推荐",
+    "tail": "建议进行NGS检测明确耐药机制",
+    "source": "ALTA系列研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "分子标志物",
+    "confidence": 0.92
+  },
+  {
+    "head": "肺腺癌",
+    "relation": "分子标志物检测率要求",
+    "tail": "建议EGFR/ALK/ROS1检测率≥70%",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "分子标志物",
+    "confidence": 0.90
+  },
+  {
+    "head": "肺鳞癌",
+    "relation": "分子标志物检测推荐",
+    "tail": "建议进行EGFR/ALK/ROS1及PD-L1检测",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "II级",
+    "domain": "分子标志物",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PD-L1免疫组化检测平台",
+    "tail": "DAKO 22C3/28-8或Ventana SP263",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "分子标志物",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "免疫治疗超进展预测标志物",
+    "tail": "MDM2/MDM4扩增或EGFR突变可能增加超进展风险",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "III级",
+    "domain": "分子标志物",
+    "confidence": 0.70
+  },
+  {
+    "head": "KRAS突变NSCLC",
+    "relation": "分子亚型分类",
+    "tail": "KRAS G12C、G12D、G12V等不同亚型",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "分子标志物",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "新兴免疫治疗标志物",
+    "tail": "肿瘤浸润淋巴细胞（TIL）密度",
+    "source": "CSCO NSCLC 2024 / ESMO 2024",
+    "evidence": "III级",
+    "domain": "分子标志物",
+    "confidence": 0.75
+  },
+  {
+    "head": "中国NSCLC患者",
+    "relation": "驱动基因突变率",
+    "tail": "EGFR突变率约50%（腺癌）、ALK融合约5-7%",
+    "source": "CSCO NSCLC 2024 / 中国多中心数据",
+    "evidence": "I级",
+    "domain": "流行病学",
+    "confidence": 0.95
+  },
+  {
+    "head": "全球肺癌",
+    "relation": "发病率排名",
+    "tail": "全球男性恶性肿瘤第一位，女性第二位",
+    "source": "GLOBOCAN 2020 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "流行病学",
+    "confidence": 0.95
+  },
+  {
+    "head": "中国肺癌",
+    "relation": "发病率与死亡率",
+    "tail": "年新发病例约82万，死亡约65万，居恶性肿瘤首位",
+    "source": "国家癌症中心2022 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "流行病学",
+    "confidence": 0.95
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "占肺癌比例",
+    "tail": "约占肺癌的13-15%",
+    "source": "CSCO SCLC 2024 / GLOBOCAN",
+    "evidence": "I级",
+    "domain": "流行病学",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "5年生存率",
+    "tail": "I期约70-90%，IV期约10-15%",
+    "source": "SEER数据库 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "流行病学",
+    "confidence": 0.92
+  },
+  {
+    "head": "肺癌",
+    "relation": "主要病理类型",
+    "tail": "NSCLC约85%（腺癌60%、鳞癌30%），SCLC约15%",
+    "source": "WHO分类 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "流行病学",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "影像学诊断首选",
+    "tail": "胸部低剂量螺旋CT（LDCT）筛查",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "诊断",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "病理诊断金标准",
+    "tail": "组织病理学检查联合免疫组化",
+    "source": "CSCO NSCLC 2024 / WHO 2022",
+    "evidence": "I级",
+    "domain": "诊断",
+    "confidence": 0.98
+  },
+  {
+    "head": "NSCLC",
+    "relation": "分子分型检测方法",
+    "tail": "免疫组化+RT-PCR+NGS多平台综合检测",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "诊断",
+    "confidence": 0.95
+  },
+  {
+    "head": "肺结节",
+    "relation": "恶性概率评估工具",
+    "tail": "Mayo模型、Brewlow模型、VA模型",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "II级",
+    "domain": "诊断",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PET-CT适应证",
+    "tail": "纵隔淋巴结分期及远处转移评估",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "诊断",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "脑转移评估推荐",
+    "tail": "头颅增强MRI为首选",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "诊断",
+    "confidence": 0.95
+  },
+  {
+    "head": "可切除NSCLC",
+    "relation": "手术方式推荐",
+    "tail": "解剖性肺叶切除+系统性淋巴结清扫",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "早期NSCLC",
+    "relation": "微创手术适应证",
+    "tail": "VATS或机器人辅助胸腔镜手术",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "放疗技术推荐",
+    "tail": "调强放疗（IMRT）或容积调强弧形治疗（VMAT）",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "放疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "早期NSCLC",
+    "relation": "立体定向放疗适应证",
+    "tail": "不可手术的I/II期NSCLC或拒绝手术者",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "放疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "联合治疗探索",
+    "tail": "EGFR-TKI联合抗血管生成药物（培美曲塞+贝伐珠单抗+奥希替尼）",
+    "source": "WJOG9717L研究 / CSCO NSCLC 2024",
+    "evidence": "II级",
+    "domain": "系统治疗",
+    "confidence": 0.82
+  }
+]
