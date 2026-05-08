@@ -1,21 +1,31 @@
 {
   "version": "1.0.0",
   "update_date": "2026-05-08",
-  "total_entries": 48,
-  "duplicates_removed": 0,
+  "total_entries": 297,
+  "duplicates_removed": 2,
   "source_files": {
     "biomarkers.json": 8,
     "csco_2024.json": 17,
     "epidemiology.json": 15,
-    "nccn_2024.json": 8
+    "literature_batch_clinical_trials.json": 37,
+    "literature_batch_csco_2026.json": 55,
+    "literature_batch_molecular.json": 38,
+    "literature_batch_nccn_esmo.json": 46,
+    "literature_batch_new_targets.json": 37,
+    "literature_batch_rwe.json": 37,
+    "nccn_2024.json": 7
   },
   "domains": {
-    "外科治疗": 4,
-    "放射治疗": 2,
-    "系统治疗": 20,
-    "流行病学与筛查": 5,
-    "临床诊断与分期": 3,
+    "外科治疗": 18,
+    "放射治疗": 12,
+    "系统治疗": 66,
+    "流行病学与筛查": 7,
+    "临床诊断与分期": 15,
     "基因突变与分子机制": 6,
-    "随访与预后": 8
+    "临床试验": 37,
+    "病理与分子分型": 55,
+    "新靶点与新药研发": 37,
+    "随访与预后": 32,
+    "围手术期管理": 12
   }
 }

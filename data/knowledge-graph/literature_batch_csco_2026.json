@@ -1,0 +1,519 @@
+[
+  {
+    "head": "EGFR突变可手术NSCLC",
+    "relation": "辅助靶向治疗推荐",
+    "tail": "奥希替尼（ADAURA研究）3年辅助治疗",
+    "source": "CSCO NSCLC 2026版指南 / ADAURA研究 (NCT02511106)",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.95,
+    "pmid": "33148142"
+  },
+  {
+    "head": "EGFR突变可手术NSCLC",
+    "relation": "术后辅助推荐",
+    "tail": "埃克替尼（EVIDENCE研究）2年辅助治疗",
+    "source": "CSCO NSCLC 2026版指南 / EVIDENCE研究",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.92,
+    "pmid": "33735784"
+  },
+  {
+    "head": "EGFR突变IIIA期NSCLC",
+    "relation": "新辅助靶向治疗研究",
+    "tail": "奥希替尼新辅助治疗IIIA期（NEOS研究）",
+    "source": "NEOS研究 / CSCO 2026指南",
+    "evidence": "II级专家共识",
+    "domain": "外科治疗",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "围手术期免疫治疗",
+    "tail": "纳武利尤单抗新辅助+手术+辅助（CheckMate 816）",
+    "source": "CheckMate 816研究 (NCT02998528) / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.92,
+    "pmid": "37347658"
+  },
+  {
+    "head": "NSCLC新辅助治疗后",
+    "relation": "辅助治疗决策依据",
+    "tail": "根据ypStage和分子标志物决定是否辅助治疗",
+    "source": "CSCO 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "外科治疗",
+    "confidence": 0.88
+  },
+  {
+    "head": "I期NSCLC",
+    "relation": "首选治疗",
+    "tail": "解剖性肺叶切除+系统性淋巴结清扫",
+    "source": "NCCN NSCLC 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "I期NSCLC不适合手术",
+    "relation": "根治性放疗推荐",
+    "tail": "立体定向放疗（SBRT）",
+    "source": "NCCN NSCLC 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "T1aN0期NSCLC",
+    "relation": "亚肺叶切除适应证",
+    "tail": "周围型结节且影像学考虑纯GGO",
+    "source": "JCOG0802/WJOG4607L研究",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.92,
+    "pmid": "33835165"
+  },
+  {
+    "head": "多原发肺癌",
+    "relation": "手术原则",
+    "tail": "优先处理主病灶，分期处理或同期处理",
+    "source": "CSCO 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "外科治疗",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "VATS/机器人手术适应证",
+    "tail": "早期NSCLC肺叶切除可微创完成",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "III期NSCLC可切除",
+    "relation": "多学科治疗模式",
+    "tail": "新辅助化疗/放化疗+手术+辅助治疗",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC手术",
+    "relation": "淋巴结清扫标准",
+    "tail": "至少切除6组淋巴结（3站N2淋巴结）",
+    "source": "NCCN/ESMO指南",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "肺段切除术",
+    "relation": "适应证",
+    "tail": "≤2cm周围型侵袭性腺癌伴GGO，肺功能差者",
+    "source": "NCCN 2025 / JCOG0802",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.90,
+    "pmid": "33835165"
+  },
+  {
+    "head": "袖式肺叶切除术",
+    "relation": "适应证",
+    "tail": "累及主支气管的中央型肺癌",
+    "source": "CSCO 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "外科治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "EGFR突变阳性率",
+    "tail": "亚裔腺癌约50-60%，西方人群约10-15%",
+    "source": "IPASS研究 / CSCO指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.92,
+    "pmid": "19738129"
+  },
+  {
+    "head": "NSCLC",
+    "relation": "常见基因突变谱",
+    "tail": "EGFR(50%)、KRAS(30%)、ALK(5%)、ROS1(2%)、BRAF(2%)",
+    "source": "NCCN 2025 / TCGA数据",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "NGS检测推荐",
+    "tail": "多基因panel检测至少包含EGFR/ALK/ROS1/BRAF/KRAS/NTRK/MET/HER2/RET",
+    "source": "CSCO 2026指南 / NCCN 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "MET exon14跳跃突变",
+    "relation": "靶向治疗推荐",
+    "tail": "赛沃替尼/卡马替尼/特泊替尼",
+    "source": "CSCO 2026指南 / VISION研究",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88,
+    "pmid": "32558266"
+  },
+  {
+    "head": "RET融合阳性NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "塞普替尼/普拉替尼",
+    "source": "ARROW研究 / LIBRETTO-001研究 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88,
+    "pmid": "33148300"
+  },
+  {
+    "head": "HER2突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "德曲妥珠单抗（T-DXd）",
+    "source": "DESTINY-Lung01/02研究 / CSCO 2026指南",
+    "evidence": "II级",
+    "domain": "病理与分子分型",
+    "confidence": 0.85,
+    "pmid": "34000629"
+  },
+  {
+    "head": "NTRK融合阳性NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "拉罗替尼/恩曲替尼",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88,
+    "pmid": "30596677"
+  },
+  {
+    "head": "BRAF V600E突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "达拉非尼+曲美替尼",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.90,
+    "pmid": "27998224"
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PD-L1检测方法",
+    "tail": "免疫组化（IHC 22C3/28-8/SP263）",
+    "source": "NCCN/ESMO/ASCO指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.98
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PD-L1 TPS判读标准",
+    "tail": "≥1%肿瘤细胞膜着色为阳性，≥50%为高表达",
+    "source": "KEYNOTE系列研究 / NCCN 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95,
+    "pmid": "31180338"
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "神经内分泌标志物",
+    "tail": "CgA、Syn、CD56阳性",
+    "source": "WHO肺肿瘤分类 / NCCN SCLC 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "分子标志物",
+    "tail": "DLL3高表达，TP53/RB1双突变",
+    "source": "TCGA / CSCO SCLC 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "液体活检适用场景",
+    "tail": "组织不足或无法活检时的补充检测",
+    "source": "CSCO 2026指南 / NCCN 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "T790M耐药检测",
+    "tail": "建议使用NGS或数字PCR",
+    "source": "AURA3研究 / CSCO指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.92,
+    "pmid": "27857016"
+  },
+  {
+    "head": "KRAS G12C突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "Sotorasib（120mg每日一次）/ Adagrasib",
+    "source": "CodeBreaK 100研究 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.85,
+    "pmid": "32633847"
+  },
+  {
+    "head": "ALK融合NSCLC",
+    "relation": "耐药后治疗推荐",
+    "tail": "Lorlatinib（劳拉替尼）",
+    "source": "CROWN研究 (NCT03052608) / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.90,
+    "pmid": "36626637"
+  },
+  {
+    "head": "NSCLC",
+    "relation": "围手术期ctDNA检测意义",
+    "tail": "可辅助预测复发风险",
+    "source": "CSCO 2026指南 / ctDNA-MRD研究",
+    "evidence": "II级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.82
+  },
+  {
+    "head": "中国肺癌高危人群",
+    "relation": "筛查标准",
+    "tail": "年龄50-74岁，吸烟≥20包年，戒烟<15年",
+    "source": "中国肺癌低剂量CT筛查指南(2025版)",
+    "evidence": "I级",
+    "domain": "流行病学与筛查",
+    "confidence": 0.95
+  },
+  {
+    "head": "中国肺癌LDCT筛查",
+    "relation": "推荐筛查间隔",
+    "tail": "每年1次低剂量CT",
+    "source": "中国肺癌LDCT筛查指南(2025版)",
+    "evidence": "I级",
+    "domain": "流行病学与筛查",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PET-CT在分期中应用",
+    "tail": "用于评估纵隔淋巴结和远处转移",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC脑膜转移",
+    "relation": "影像学特征",
+    "tail": "MRI增强扫描可见脑膜强化",
+    "source": "CSCO 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "临床诊断与分期",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC",
+    "relation": "脑转移诊断金标准",
+    "tail": "MRI增强扫描",
+    "source": "NCCN CNS肿瘤指南 2025",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.98
+  },
+  {
+    "head": "NSCLC脑转移",
+    "relation": "EGFR突变患者发生率",
+    "tail": "约30-40%在病程中发生脑转移",
+    "source": "CSCO 2026指南 / FLAURA研究",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.88,
+    "pmid": "31056043"
+  },
+  {
+    "head": "NSCLC",
+    "relation": "TNM分期第9版更新要点",
+    "tail": "T分期中磨玻璃成分不再计入T肿瘤大小",
+    "source": "IASLC第9版肺癌分期",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "第八版TNM分期IA期定义",
+    "tail": "T1a≤1cm，T1b>1-2cm，T1c>2-3cm",
+    "source": "IASLC第8版分期手册",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "纵隔淋巴结分期金标准",
+    "tail": "纵隔镜活检或EBUS-TBNA",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.95
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "局限期定义",
+    "tail": "病变局限于一侧胸腔，可安全纳入单一放射野",
+    "source": "NCCN SCLC 2025 / CSCO SCLC 2026指南",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.98
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "广泛期定义",
+    "tail": "超出局限期定义范围的病变",
+    "source": "NCCN SCLC 2025 / CSCO SCLC 2026指南",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.98
+  },
+  {
+    "head": "肺结节",
+    "relation": "直径8-30mm处理原则",
+    "tail": "根据影像学特征和多学科讨论决定活检或手术",
+    "source": "CSCO 2026指南 / Fleischner指南",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.92
+  },
+  {
+    "head": "肺结节",
+    "relation": "纯磨玻璃结节处理",
+    "tail": "≤5mm可年度随访，>5mm需更密切监测",
+    "source": "Fleischner指南2023 / NCCN筛查指南",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC",
+    "relation": "影像学引导下穿刺活检",
+    "tail": "CT引导经皮穿刺为周围型病变首选",
+    "source": "CSCO 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "临床诊断与分期",
+    "confidence": 0.92
+  },
+  {
+    "head": "EGFR突变NSCLC脑实质转移",
+    "relation": "一线靶向治疗",
+    "tail": "奥希替尼（血脑屏障穿透性强）",
+    "source": "FLAURA研究 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.95,
+    "pmid": "31056043"
+  },
+  {
+    "head": "NSCLC寡转移",
+    "relation": "局部治疗价值",
+    "tail": "立体定向放疗可延长PFS",
+    "source": "NCCN 2025 / SABR-COMET研究",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.88,
+    "pmid": "31345722"
+  },
+  {
+    "head": "III期不可切除NSCLC",
+    "relation": "根治性放化疗后巩固治疗",
+    "tail": "度伐利尤单抗（PACIFIC研究）最长12个月",
+    "source": "PACIFIC研究 (NCT02125461) / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.95,
+    "pmid": "28885880"
+  },
+  {
+    "head": "NSCLC立体定向放疗",
+    "relation": "SBRT生物学剂量",
+    "tail": "BED≥100Gy等效生物剂量",
+    "source": "NCCN 2025 / RTOG 0236",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC全脑放疗",
+    "relation": "WBRT适应证",
+    "tail": "多发脑转移（>3个）或不适合SRS者",
+    "source": "NCCN CNS 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC脑转移",
+    "relation": "海马回避WBRT",
+    "tail": "可减少认知功能损害",
+    "source": "NRG Oncology CC001研究",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.88,
+    "pmid": "29622579"
+  },
+  {
+    "head": "局限期小细胞肺癌",
+    "relation": "标准放化疗方案",
+    "tail": "同步放化疗（顺铂/卡铂+依托泊苷+胸部放疗）",
+    "source": "NCCN SCLC 2025 / CSCO SCLC 2026指南",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "局限期小细胞肺癌",
+    "relation": "放疗开始时机",
+    "tail": "与化疗同步开始不晚于第2周期",
+    "source": "Turrisi研究 / NCCN SCLC 2025",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.92,
+    "pmid": "10027390"
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "预防性颅内照射(PCI)",
+    "tail": "对完全缓解的局限期SCLC可考虑",
+    "source": "NCCN SCLC 2025 / CSCO SCLC 2026指南",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.90
+  },
+  {
+    "head": "广泛期小细胞肺癌",
+    "relation": "胸部放疗适应证",
+    "tail": "化疗有效残余胸内病灶可考虑",
+    "source": "CREST研究 / CSCO SCLC 2026指南",
+    "evidence": "II级",
+    "domain": "放射治疗",
+    "confidence": 0.85,
+    "pmid": "27260308"
+  }
+]

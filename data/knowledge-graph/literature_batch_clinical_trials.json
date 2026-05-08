@@ -1,0 +1,365 @@
+[
+  {
+    "head": "EGFR突变NSCLC新辅助",
+    "relation": "NEOS研究",
+    "tail": "奥希替尼新辅助治疗IIIA期NSCLC，ORR 71%，R0切除率94%",
+    "source": "NEOS研究 (NCT03433456) / Lancet Respir Med",
+    "evidence": "II级",
+    "domain": "临床试验",
+    "confidence": 0.85,
+    "pmid": "31030997"
+  },
+  {
+    "head": "EGFR突变NSCLC辅助",
+    "relation": "ADAURA研究结果",
+    "tail": "奥希替尼辅助治疗IB-IIIA期，DFS HR=0.20（IIIA期）",
+    "source": "ADAURA研究 (NCT02511106) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.95,
+    "pmid": "33148142"
+  },
+  {
+    "head": "EGFR突变NSCLC辅助",
+    "relation": "EVIDENCE研究结果",
+    "tail": "埃克替尼vs安慰剂，DFS HR=0.36，显著延长DFS",
+    "source": "EVIDENCE研究 (NCT01948778) / Lancet Respir Med",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "33735784"
+  },
+  {
+    "head": "NSCLC新辅助免疫",
+    "relation": "CheckMate 816研究",
+    "tail": "纳武利尤单抗+含铂化疗vs化疗，pCR率24% vs 2.2%",
+    "source": "CheckMate 816 (NCT02998528) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.95,
+    "pmid": "37347658"
+  },
+  {
+    "head": "NSCLC新辅助免疫",
+    "relation": "KEYNOTE-671研究",
+    "tail": "帕博利珠单抗新辅助+手术+辅助，EFS显著改善",
+    "source": "KEYNOTE-671 (NCT03425643) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "37585964"
+  },
+  {
+    "head": "EGFR突变NSCLC一线",
+    "relation": "FLAURA研究结果",
+    "tail": "奥希替尼vs一代TKI，中位OS 38.6月 vs 31.6月",
+    "source": "FLAURA (NCT02296125) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.95,
+    "pmid": "31056043"
+  },
+  {
+    "head": "EGFR突变NSCLC一线",
+    "relation": "AENEAS研究",
+    "tail": "阿美替尼vs吉非替尼，中位PFS 19.3月 vs 9.9月",
+    "source": "AENEAS (NCT03849768) / JCO",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "34089056"
+  },
+  {
+    "head": "ALK融合NSCLC一线",
+    "relation": "ALEX研究结果",
+    "tail": "阿来替尼vs克唑替尼，中位PFS 34.8月 vs 10.9月",
+    "source": "ALEX (NCT02075840) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.95,
+    "pmid": "31142434"
+  },
+  {
+    "head": "ALK融合NSCLC一线",
+    "relation": "CROWN研究",
+    "tail": "洛拉替尼vs克唑替尼，12月PFS率78% vs 39%",
+    "source": "CROWN (NCT03052608) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "36626637"
+  },
+  {
+    "head": "KRAS G12C突变NSCLC",
+    "relation": "CodeBreaK 100研究",
+    "tail": "Sotorasib后线治疗，ORR 37%，DCR 81%",
+    "source": "CodeBreaK 100 (NCT03600883) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88,
+    "pmid": "32633847"
+  },
+  {
+    "head": "MET exon14跳跃突变NSCLC",
+    "relation": "VISION研究",
+    "tail": "特泊替尼治疗，ORR 46%，DOR 11.1月",
+    "source": "VISION (NCT02864992) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.90,
+    "pmid": "32558266"
+  },
+  {
+    "head": "RET融合NSCLC",
+    "relation": "ARROW研究",
+    "tail": "普拉替尼治疗，ORR 61%，DOR 22.3月",
+    "source": "ARROW (NCT03037385) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.90,
+    "pmid": "33148300"
+  },
+  {
+    "head": "EGFR exon20插入NSCLC",
+    "relation": "CHRYSALIS研究",
+    "tail": "埃万妥单抗，ORR 40%，DOR 11.1月",
+    "source": "CHRYSALIS (NCT02609776) / JCO",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88,
+    "pmid": "34530469"
+  },
+  {
+    "head": "NSCLC一线免疫",
+    "relation": "KEYNOTE-189研究更新",
+    "tail": "帕博利珠单抗+化疗，5年OS率19.4% vs 11.3%",
+    "source": "KEYNOTE-189 (NCT02578680) / JCO",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.95,
+    "pmid": "35536872"
+  },
+  {
+    "head": "NSCLC一线免疫",
+    "relation": "KEYNOTE-407研究更新",
+    "tail": "帕博利珠单抗+化疗鳞癌，5年OS率18.4% vs 9.7%",
+    "source": "KEYNOTE-407 (NCT02775435) / JCO",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.95,
+    "pmid": "36103150"
+  },
+  {
+    "head": "III期NSCLC巩固治疗",
+    "relation": "PACIFIC研究5年OS",
+    "tail": "度伐利尤单抗vs安慰剂，5年OS率42.9% vs 33.4%",
+    "source": "PACIFIC (NCT02125461) / JTO",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.95,
+    "pmid": "31245191"
+  },
+  {
+    "head": "广泛期小细胞肺癌一线",
+    "relation": "CASPIAN研究",
+    "tail": "度伐利尤单抗+化疗，中位OS 12.9月 vs 10.5月",
+    "source": "CASPIAN (NCT03043872) / Lancet",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "31498129"
+  },
+  {
+    "head": "广泛期小细胞肺癌一线",
+    "relation": "IMpower133研究",
+    "tail": "阿替利珠单抗+化疗，中位OS 12.3月 vs 10.3月",
+    "source": "IMpower133 (NCT02763579) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "29503245"
+  },
+  {
+    "head": "小细胞肺癌二线",
+    "relation": "DeLLphi-301研究",
+    "tail": "Tarlatamab 10mg，ORR 40%，中位OS 14.3月",
+    "source": "DeLLphi-301 (NCT03319940) / NEJM",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88,
+    "pmid": "37406178"
+  },
+  {
+    "head": "EGFR突变NSCLC脑转移",
+    "relation": "FLAURA亚组分析",
+    "tail": "奥希替尼vs一代TKI，中位CNS PFS 15.2月 vs 9.6月",
+    "source": "FLAURA CNS亚组分析",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "31559167"
+  },
+  {
+    "head": "NSCLC三线治疗",
+    "relation": "ALTER0303研究",
+    "tail": "安罗替尼vs安慰剂，中位OS 9.6月 vs 6.3月",
+    "source": "ALTER0303 (NCT02388919) / JAMA Oncol",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88,
+    "pmid": "29368820"
+  },
+  {
+    "head": "NSCLC辅助靶向",
+    "relation": "CTONG1104(ADJUVANT)研究",
+    "tail": "吉非替尼vs化疗辅助，DFS获益但OS未显著差异",
+    "source": "ADJUVANT (CTONG1104, NCT01405079) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88,
+    "pmid": "29129442"
+  },
+  {
+    "head": "NSCLC新辅助",
+    "relation": "NADIM研究",
+    "tail": "纳武利尤单抗+化疗新辅助，pCR率36.8%，3年OS率81.9%",
+    "source": "NADIM (NCT03081689) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88,
+    "pmid": "33248569"
+  },
+  {
+    "head": "HER2突变NSCLC",
+    "relation": "DESTINY-Lung01研究",
+    "tail": "T-DXd治疗，ORR 61.9%，中位PFS 14.0月",
+    "source": "DESTINY-Lung01 (NCT03505710) / NEJM",
+    "evidence": "II级",
+    "domain": "临床试验",
+    "confidence": 0.85,
+    "pmid": "34636792"
+  },
+  {
+    "head": "NSCLC免疫联合",
+    "relation": "IMpower150研究",
+    "tail": "阿替利珠单抗+贝伐+化疗四药联合，EGFR突变患者OS获益",
+    "source": "IMpower150 (NCT02366143) / Lancet Respir Med",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.90,
+    "pmid": "29602737"
+  },
+  {
+    "head": "NSCLC一线",
+    "relation": "ORIENT-31研究",
+    "tail": "信迪利单抗+IBI305+化疗，中位PFS 7.2月 vs 5.5月",
+    "source": "ORIENT-31 (NCT04500704) / Lancet Respir Med",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.85,
+    "pmid": "36775760"
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "MARIPOSA研究",
+    "tail": "埃万妥单抗+拉泽替尼vs奥希替尼，中位PFS 23.7月 vs 16.4月",
+    "source": "MARIPOSA (NCT04487080) / ESMO 2024",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88
+  },
+  {
+    "head": "ALK融合NSCLC",
+    "relation": "eXalt3研究",
+    "tail": "恩沙替尼vs克唑替尼，中位PFS 25.8月 vs 12.7月",
+    "source": "eXalt3 (NCT02767804) / JAMA",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.88,
+    "pmid": "33002121"
+  },
+  {
+    "head": "NSCLC脑转移",
+    "relation": "BLOOM研究",
+    "tail": "奥希替尼160mg脑膜转移，中位OS 11.0月",
+    "source": "BLOOM (NCT02296125队列) / JAMA Oncol",
+    "evidence": "II级",
+    "domain": "临床试验",
+    "confidence": 0.85,
+    "pmid": "31855248"
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "SKYSCRAPER-02研究",
+    "tail": "Tiragolumab+阿替利珠单抗+化疗，未达PFS终点",
+    "source": "SKYSCRAPER-02 (NCT04256421) / ESMO 2022",
+    "evidence": "III级（阴性）",
+    "domain": "临床试验",
+    "confidence": 0.75
+  },
+  {
+    "head": "NSCLC",
+    "relation": "SKYSCRAPER-01研究",
+    "tail": "Tiragolumab+阿替利珠单抗，未达PFS终点",
+    "source": "SKYSCRAPER-01 (NCT04294810)",
+    "evidence": "III级（阴性）",
+    "domain": "临床试验",
+    "confidence": 0.75
+  },
+  {
+    "head": "NSCLC后线",
+    "relation": "TROPION-Lung01研究",
+    "tail": "Dato-DXd vs 多西他赛，中位PFS 4.4月 vs 3.9月",
+    "source": "TROPION-Lung01 (NCT04612751) / ESMO 2024",
+    "evidence": "II级",
+    "domain": "临床试验",
+    "confidence": 0.80
+  },
+  {
+    "head": "广泛期小细胞肺癌",
+    "relation": "DeLLphi-301长期随访",
+    "tail": "Tarlatamab 10mg Q2W，OS率12月42.6%，15月35.6%",
+    "source": "DeLLphi-301更新数据 / WCLC 2024",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC辅助免疫",
+    "relation": "PEARLS研究",
+    "tail": "帕博利珠单抗辅助治疗IB-IIIA期，DFS未达统计学显著",
+    "source": "PEARLS (NCT02504372) / ESMO 2022",
+    "evidence": "III级（未达终点）",
+    "domain": "临床试验",
+    "confidence": 0.75
+  },
+  {
+    "head": "NSCLC辅助免疫",
+    "relation": "IMpower010研究",
+    "tail": "阿替利珠单抗辅助，II-IIIA期NSCLC DFS获益",
+    "source": "IMpower010 (NCT02486718) / Lancet",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.92,
+    "pmid": "34586389"
+  },
+  {
+    "head": "NSCLC辅助免疫",
+    "relation": "Keynote-091研究",
+    "tail": "帕博利珠单抗辅助IB-IIIA期，DFS改善",
+    "source": "Keynote-091 (NCT02504372) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.90,
+    "pmid": "36577273"
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "FLAURA2研究",
+    "tail": "奥希替尼+化疗vs奥希替尼，中位PFS 25.4月 vs 16.7月",
+    "source": "FLAURA2 (NCT04035486) / ESMO 2024",
+    "evidence": "I级",
+    "domain": "临床试验",
+    "confidence": 0.90
+  }
+]

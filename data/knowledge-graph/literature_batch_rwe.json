@@ -1,0 +1,336 @@
+[
+  {
+    "head": "NSCLC I期",
+    "relation": "5年生存率",
+    "tail": "约70-90%",
+    "source": "SEER数据库2024更新",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC II期",
+    "relation": "5年生存率",
+    "tail": "约50-60%",
+    "source": "SEER数据库2024更新",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC III期",
+    "relation": "5年生存率",
+    "tail": "约25-40%（PACIFIC模式后提高）",
+    "source": "PACIFIC研究5年随访 / SEER",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC IV期",
+    "relation": "5年生存率",
+    "tail": "约5-10%（靶向/免疫治疗后提高）",
+    "source": "KEYNOTE系列长期随访 / SEER",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC脑转移",
+    "relation": "预后分级",
+    "tail": "RPA分级/GPA评分用于预后评估",
+    "source": "NCCN CNS指南 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "预后因素",
+    "tail": "21外显子L858R突变、脑转移数目、TP53共突变",
+    "source": "CSCO/ESMO真实世界研究",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "ALK融合NSCLC",
+    "relation": "预后",
+    "tail": "靶向治疗后OS可达7-8年以上",
+    "source": "ALEX/CROWN长期随访",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  },
+  {
+    "head": "广泛期小细胞肺癌",
+    "relation": "2年生存率",
+    "tail": "约10-20%（免疫联合化疗后）",
+    "source": "CASPIAN/IMpower133更新",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "局限期小细胞肺癌",
+    "relation": "5年生存率",
+    "tail": "约25-30%（同步放化疗后）",
+    "source": "NCCN SCLC 2025",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC术后随访",
+    "relation": "前2年随访频率",
+    "tail": "每3-6个月随访1次",
+    "source": "CSCO/NCCN 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC术后随访",
+    "relation": "2-5年随访频率",
+    "tail": "每6-12个月随访1次",
+    "source": "CSCO/NCCN 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC术后随访",
+    "relation": "5年后随访频率",
+    "tail": "每年随访1次",
+    "source": "CSCO/NCCN 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC术后随访",
+    "relation": "胸部CT频率",
+    "tail": "前3年每6个月1次，之后每年1次",
+    "source": "CSCO 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC脑转移",
+    "relation": "自然病程预后",
+    "tail": "未治疗中位生存期1-2月，全脑放疗4-6月",
+    "source": "NCCN CNS指南 / RTOG研究",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC脑转移立体定向放疗",
+    "relation": "预后",
+    "tail": "寡转移（1-3个）SRS后中位OS约12-24月",
+    "source": "NCCN CNS指南 / JROSG研究",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC骨转移",
+    "relation": "预后",
+    "tail": "中位OS约6-12月，骨改良药物可延长",
+    "source": "CSCO骨转移指南",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.82
+  },
+  {
+    "head": "NSCLC寡转移",
+    "relation": "定义",
+    "tail": "1-5个转移灶（通常包括脑/肺/肾上腺等）",
+    "source": "NCCN 2025 / oligometastases定义",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC寡转移",
+    "relation": "局部治疗价值",
+    "tail": "SABR可显著延长PFS和OS（SABR-COMET研究）",
+    "source": "SABR-COMET (NCT01446744) / Lancet",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88,
+    "pmid": "31345722"
+  },
+  {
+    "head": "NSCLC免疫治疗假性进展",
+    "relation": "发生率",
+    "tail": "约5-10%患者出现假性进展",
+    "source": "CSCO/ASCO免疫治疗假性进展专家共识",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC免疫治疗超进展",
+    "relation": "定义",
+    "tail": "肿瘤生长速度增加>50%",
+    "source": "CSCO超进展专家共识",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ctDNA-MRD阳性",
+    "tail": "与术后复发高度相关",
+    "source": "CSCO ctDNA-MRD专家共识 / DYNAMIC研究",
+    "evidence": "II级",
+    "domain": "随访与预后",
+    "confidence": 0.82
+  },
+  {
+    "head": "NSCLC",
+    "relation": "NLR（中性粒细胞/淋巴细胞比值）",
+    "tail": "NLR升高与预后不良相关",
+    "source": "CSCO/ESMO预后生物标志物研究",
+    "evidence": "II级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.78
+  },
+  {
+    "head": "NSCLC",
+    "relation": "治疗线数与OS关系",
+    "tail": "接受后线治疗的患者OS通常优于最佳支持治疗",
+    "source": "CSCO 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "预后相关因素",
+    "tail": "体能状态、年龄、乳酸脱氢酶、碱性磷酸酶",
+    "source": "NCCN SCLC 2025 / VALG分期",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "复发模式",
+    "tail": "约60-70%患者在2年内复发",
+    "source": "CSCO SCLC 2026指南",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC早期",
+    "relation": "心肺功能评估",
+    "tail": "术前FEV1和DLCO评估手术耐受性",
+    "source": "NCCN/ESMO手术评估指南",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC手术",
+    "relation": "术后并发症",
+    "tail": "肺漏气/肺炎/心律失常/肺栓塞",
+    "source": "CSCO 2026指南 / 胸外科数据库",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC术后",
+    "relation": "镇痛管理",
+    "tail": "多模式镇痛，减少阿片类药物使用",
+    "source": "CSCO/ERAS指南",
+    "evidence": "I级专家共识",
+    "domain": "围手术期管理",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC术后",
+    "relation": "ERAS管理",
+    "tail": "早期下床活动、肺康复、营养支持",
+    "source": "ERAS协会指南",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.88
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "靶向治疗心脏毒性",
+    "tail": "奥希替尼可引起QT间期延长，需监测心电图",
+    "source": "FLAURA研究安全性数据",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.88
+  },
+  {
+    "head": "免疫检查点抑制剂",
+    "relation": "irAE处理原则",
+    "tail": "G1-2继续免疫治疗+对症处理，G3-4暂停并使用激素",
+    "source": "CSCO/ASCO/NCCN免疫毒性管理指南",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.95
+  },
+  {
+    "head": "免疫相关肺炎",
+    "relation": "分级处理",
+    "tail": "G1观察，G2激素，G3-4住院大剂量激素±英夫利昔单抗",
+    "source": "CSCO免疫毒性管理指南2025版",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.92
+  },
+  {
+    "head": "免疫相关内分泌毒性",
+    "relation": "常见类型",
+    "tail": "甲状腺功能减退/亢进、肾上腺功能不全、糖尿病",
+    "source": "CSCO免疫毒性管理指南",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.92
+  },
+  {
+    "head": "蒽环类化疗",
+    "relation": "心脏毒性监测",
+    "tail": "每次给药前监测LVEF，显著下降需停药",
+    "source": "CSCO化疗安全管理指南",
+    "evidence": "I级",
+    "domain": "围手术期管理",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "围手术期血栓预防",
+    "tail": "术后低分子肝素预防VTE",
+    "source": "CSCO/NCCN围手术期抗凝指南",
+    "evidence": "I级专家共识",
+    "domain": "围手术期管理",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC手术",
+    "relation": "引流量处理",
+    "tail": "术后胸腔引流管管理，引流量<200-300ml/d可拔管",
+    "source": "CSCO/ERAS胸外科指南",
+    "evidence": "I级专家共识",
+    "domain": "围手术期管理",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "营养支持",
+    "tail": "高蛋白饮食，维持BMI≥18.5",
+    "source": "CSCO肿瘤营养指南",
+    "evidence": "I级专家共识",
+    "domain": "围手术期管理",
+    "confidence": 0.85
+  }
+]

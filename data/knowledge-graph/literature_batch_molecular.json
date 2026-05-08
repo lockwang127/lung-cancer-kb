@@ -1,0 +1,347 @@
+[
+  {
+    "head": "NSCLC",
+    "relation": "分子分型检测时间",
+    "tail": "诊断时即应完成驱动基因检测",
+    "source": "CSCO/NCCN/ESMO指南一致推荐",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.98
+  },
+  {
+    "head": "NSCLC",
+    "relation": "组织学分类",
+    "tail": "腺癌/鳞癌/大细胞癌/腺鳞癌等",
+    "source": "WHO肺肿瘤分类第5版",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.98
+  },
+  {
+    "head": "肺腺癌",
+    "relation": "常见基因突变",
+    "tail": "EGFR/KRAS/ALK/ROS1/MET/RET/BRAF/HER2/PIK3CA",
+    "source": "TCGA / NCCN 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.92
+  },
+  {
+    "head": "肺鳞癌",
+    "relation": "驱动基因突变率",
+    "tail": "约5-10%，显著低于腺癌",
+    "source": "TCGA鳞癌数据 / NCCN 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ALK融合检测方法",
+    "tail": "IHC初筛阳性需FISH或NGS确认",
+    "source": "NCCN/ESMO/IASLC指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ROS1融合检测",
+    "tail": "FISH或NGS方法",
+    "source": "CSCO 2026指南 / NCCN 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC",
+    "relation": "NGS检测优势",
+    "tail": "可同时检测多个基因，节省组织标本",
+    "source": "CSCO/NCCN/ESMO一致推荐",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PD-L1检测平台",
+    "tail": "22C3（帕博利珠单抗伴随诊断）/28-8/SP263",
+    "source": "FDA批准伴随诊断",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PD-L1 CPS评分",
+    "tail": "用于胃癌和食管癌，NSCLC用TPS",
+    "source": "KEYNOTE系列研究定义",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.92
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "分子特征",
+    "tail": "TP53+RB1双失活，DLL3高表达",
+    "source": "TCGA SCLC研究 / CSCO SCLC 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.90
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "DLL3表达",
+    "tail": "约80% SCLC高表达DLL3",
+    "source": "DeLLphi系列研究",
+    "evidence": "I级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "免疫组化检测标志物",
+    "tail": "TTF-1/Napsin A（腺癌）/p40/p63（鳞癌）",
+    "source": "WHO分类 / NCCN指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "TTF-1阳性意义",
+    "tail": "提示腺癌来源，转移性腺癌鉴别",
+    "source": "WHO肺肿瘤分类",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "液体活检适用人群",
+    "tail": "无法获取组织时的补充手段",
+    "source": "CSCO/NCCN液体活检专家共识",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ctDNA检测局限性",
+    "tail": "敏感度约60-80%，阴性不能排除突变",
+    "source": "CSCO液体活检专家共识",
+    "evidence": "I级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "MET扩增检测",
+    "tail": "FISH（GCN≥5或MET/CEP7≥2）或NGS",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "RET融合检测方法",
+    "tail": "FISH/NGS/IHC（需验证）",
+    "source": "ARROW研究 / NCCN 2025",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC",
+    "relation": "NTRK融合检测",
+    "tail": "NGS为金标准，IHC初筛",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "EGFR突变",
+    "relation": "常见突变类型",
+    "tail": "19外显子缺失（约45%）和21外显子L858R（约40%）",
+    "source": "IPASS研究 / 大样本测序数据",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95,
+    "pmid": "19738129"
+  },
+  {
+    "head": "EGFR突变",
+    "relation": "少见突变分类",
+    "tail": "G719X/S768I/exon20插入/L861Q",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.92
+  },
+  {
+    "head": "KRAS突变",
+    "relation": "最常见突变位点",
+    "tail": "KRAS G12C约13%，G12V/G12D等",
+    "source": "TCGA / CodeBreaK研究",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "TMB检测方法",
+    "tail": "NGS大panel计算",
+    "source": "KEYNOTE-158 / NCCN 2025",
+    "evidence": "II级",
+    "domain": "病理与分子分型",
+    "confidence": 0.82
+  },
+  {
+    "head": "NSCLC",
+    "relation": "MSI-H/dMMR检测",
+    "tail": "免疫组化+PCR/NGS",
+    "source": "KEYNOTE-158相关数据",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ALK IHC检测",
+    "tail": "VENTANA D5F3为首选抗体",
+    "source": "FDA批准伴随诊断",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "循环肿瘤细胞(CTC)检测",
+    "tail": "可辅助诊断和疗效监测",
+    "source": "CSCO CTC检测专家共识",
+    "evidence": "II级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.78
+  },
+  {
+    "head": "NSCLC",
+    "relation": "病理报告应包含",
+    "tail": "组织学类型、分化程度、驱动基因、PD-L1状态",
+    "source": "CSCO/NCCN病理诊断规范",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "分子检测样本要求",
+    "tail": "组织样本优先，细胞学样本可接受",
+    "source": "CSCO分子检测指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.92
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "T790M耐药机制",
+    "tail": "约50-60%耐药患者检出T790M",
+    "source": "AURA研究系列",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.90,
+    "pmid": "27857016"
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "非T790M耐药机制",
+    "tail": "MET扩增/HER2扩增/小细胞转化等",
+    "source": "NCCN 2025 / CSCO 2026指南",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ALK耐药突变",
+    "tail": "G1202R为常见ALK二次突变",
+    "source": "lorlatinib研究系列",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.88,
+    "pmid": "27106422"
+  },
+  {
+    "head": "小细胞肺癌转化",
+    "relation": "EGFR突变NSCLC耐药机制",
+    "tail": "约3-10%患者可发生小细胞肺癌转化",
+    "source": "CSCO/ASCO转化相关研究",
+    "evidence": "I级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "新辅助治疗病理评估",
+    "tail": "主要病理缓解（MPR）定义为存活肿瘤≤10%",
+    "source": "CSCO 2026指南 / IASLC MPR定义",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC新辅助治疗",
+    "relation": "病理完全缓解(pCR)定义",
+    "tail": "淋巴结和原发灶均无存活肿瘤细胞",
+    "source": "IASLC/CSCO病理评估标准",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "NSCLC",
+    "relation": "分子残留病灶(MRD)检测",
+    "tail": "ctDNA-NGS可检测术后MRD",
+    "source": "CSCO ctDNA-MRD专家共识",
+    "evidence": "II级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.80
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ctDNA动态监测价值",
+    "tail": "可早于影像学发现复发",
+    "source": "TRACERx等研究",
+    "evidence": "II级",
+    "domain": "病理与分子分型",
+    "confidence": 0.78
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PIK3CA突变",
+    "tail": "见于约2-5%肺腺癌",
+    "source": "TCGA数据",
+    "evidence": "I级",
+    "domain": "病理与分子分型",
+    "confidence": 0.82
+  },
+  {
+    "head": "NSCLC",
+    "relation": "NRG1融合",
+    "tail": "罕见驱动基因，可用泛HER抑制剂",
+    "source": "eNRG1研究",
+    "evidence": "II级专家共识",
+    "domain": "病理与分子分型",
+    "confidence": 0.75
+  },
+  {
+    "head": "NSCLC",
+    "relation": "FGFR融合/突变",
+    "tail": "可能对FGFR抑制剂有反应",
+    "source": "NCCN 2025（纳入参考）",
+    "evidence": "III级",
+    "domain": "病理与分子分型",
+    "confidence": 0.70
+  }
+]

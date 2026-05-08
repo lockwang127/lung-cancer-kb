@@ -1,0 +1,338 @@
+[
+  {
+    "head": "NSCLC",
+    "relation": "新靶点药物研发",
+    "tail": "ADC（抗体药物偶联物）成为热点",
+    "source": "Nature Reviews Drug Discovery 2025",
+    "evidence": "I级专家共识",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC",
+    "relation": "Trop-2 ADC",
+    "tail": "Datopotamab deruxtecan（Dato-DXd）已获FDA批准",
+    "source": "TROPION-Lung01 / FDA 2025批准",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "HER2 ADC",
+    "tail": "德曲妥珠单抗（T-DXd）用于HER2突变NSCLC",
+    "source": "DESTINY-Lung01 / FDA 2022批准",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.90,
+    "pmid": "34636792"
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "DLL3靶点",
+    "tail": "塔拉妥单抗（Tarlatamab）已获FDA正式批准",
+    "source": "DeLLphi-301 / FDA 2025批准",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.88,
+    "pmid": "37406178"
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "DLL3靶点新药",
+    "tail": "BI 764532（DLL3/CD3双抗）早期研究显示活性",
+    "source": "NCT05029882",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.80
+  },
+  {
+    "head": "NSCLC",
+    "relation": "第四代EGFR TKI",
+    "tail": "BBT-207、BLU-945等正在研发中",
+    "source": "NCT05418209 / NCT04862780",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.78
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "耐药后新策略",
+    "tail": "Amivantamab+拉泽替尼联合靶向",
+    "source": "MARIPOSA研究",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "第四代ALK TKI",
+    "tail": "TPX-0131、NVL-655等在研",
+    "source": "NCT04832722 / NCT04784494",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.75
+  },
+  {
+    "head": "KRAS G12C NSCLC",
+    "relation": "新一代抑制剂",
+    "tail": "Garsorasib、D-1553等国产药正在研发",
+    "source": "NCT05315180 / NCT05367778",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.80
+  },
+  {
+    "head": "NSCLC",
+    "relation": "HER2 exon20插入",
+    "relation_detail": "ADC药物疗效优于TKI",
+    "tail": "T-DXd优于波齐替尼/埃万妥单抗",
+    "source": "DESTINY-Lung02研究",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.85
+  },
+  {
+    "head": "NSCLC",
+    "relation": "新型免疫检查点",
+    "tail": "TIGIT抑制剂（Tiragolumab）III期研究失败",
+    "source": "SKYSCRAPER-01/02",
+    "evidence": "III级（阴性结果）",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.80
+  },
+  {
+    "head": "NSCLC",
+    "relation": "新型免疫检查点",
+    "tail": "LAG-3抑制剂研究进行中",
+    "source": "NCT04140526 / NCT04158414",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.75
+  },
+  {
+    "head": "NSCLC",
+    "relation": "新型免疫检查点",
+    "tail": "TIM-3、CEACAM1等在研",
+    "source": "NCT03446040等",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.72
+  },
+  {
+    "head": "NSCLC",
+    "relation": "肿瘤疫苗",
+    "tail": "新抗原疫苗正在探索中",
+    "source": "NCT02439450 / NCT04078247",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.70
+  },
+  {
+    "head": "NSCLC",
+    "relation": "CAR-T细胞治疗",
+    "tail": "靶向MSLN/MUC1的CAR-T正在研究中",
+    "source": "NCT02959190 / NCT03525782",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.72
+  },
+  {
+    "head": "NSCLC",
+    "relation": "TIL细胞治疗",
+    "tail": "肿瘤浸润淋巴细胞治疗在探索",
+    "source": "NCT04614103等",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.72
+  },
+  {
+    "head": "NSCLC",
+    "relation": "双特异性抗体",
+    "tail": "EGFR/c-MET双抗（埃万妥单抗）已获批",
+    "source": "CHRYSALIS / MARIPOSA",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ADC药物靶点",
+    "tail": "HER3、TROP2、CEACAM5、B7-H3等在研",
+    "source": "多个I/II期临床研究",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.82
+  },
+  {
+    "head": "NSCLC",
+    "relation": "HER3 ADC",
+    "tail": "Patritumab deruxtecan (U3-1402) 显示活性",
+    "source": "NCT04619004 / HERTHENA-Lung01",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.80
+  },
+  {
+    "head": "NSCLC",
+    "relation": "B7-H3 ADC",
+    "tail": "MENA-B3等在研",
+    "source": "NCT05293418等",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.75
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "LSD1抑制剂",
+    "tail": "Iadademstat等在早期研究中",
+    "source": "NCT03514407",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.70
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "CHK1抑制剂",
+    "tail": "Prexasertib等在研究中",
+    "source": "NCT02124148",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.68
+  },
+  {
+    "head": "NSCLC",
+    "relation": "WEE1抑制剂",
+    "tail": "Adavosertib等在研究中",
+    "source": "NCT02542293",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.68
+  },
+  {
+    "head": "NSCLC",
+    "relation": "ATR抑制剂",
+    "tail": "Ceralasertib等在研究中",
+    "source": "NCT02264678",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.68
+  },
+  {
+    "head": "NSCLC",
+    "relation": "EZH2抑制剂",
+    "tail": "Tazemetostat等在研究中",
+    "source": "NCT02860286",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.68
+  },
+  {
+    "head": "NSCLC",
+    "relation": "Sotorasib耐药机制",
+    "tail": "KRAS G12C二次突变、旁路激活等",
+    "source": "CodeBreaK 100系列耐药分析",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.85
+  },
+  {
+    "head": "EGFR突变NSCLC",
+    "relation": "C797S突变",
+    "tail": "是奥希替尼耐药机制之一，可选四代TKI",
+    "source": "CSCO/NCCN耐药管理指南",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "耐药克隆异质性",
+    "tail": "多克隆耐药机制增加了克服耐药难度",
+    "source": "TRACERx等研究",
+    "evidence": "I级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.82
+  },
+  {
+    "head": "NSCLC",
+    "relation": "精准医学挑战",
+    "tail": "肿瘤异质性和时空演变是主要挑战",
+    "source": "Nature Cancer 2025综述",
+    "evidence": "I级专家共识",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC",
+    "relation": "AI辅助药物研发",
+    "tail": "AI用于靶点发现和药物设计",
+    "source": "Nature Reviews Drug Discovery 2025",
+    "evidence": "II级专家共识",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.80
+  },
+  {
+    "head": "NSCLC",
+    "relation": "联合治疗策略",
+    "tail": "TKI+抗血管+免疫等四药联合在探索",
+    "source": "多项II/III期研究",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.82
+  },
+  {
+    "head": "NSCLC",
+    "relation": "克服免疫耐药",
+    "tail": "靶向Treg、MDSC等免疫抑制微环境",
+    "source": "NCT04007744等",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.75
+  },
+  {
+    "head": "NSCLC",
+    "relation": "代谢通路靶点",
+    "tail": "IDH1/2、GLUT等在研",
+    "source": "NCT02381886等",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.70
+  },
+  {
+    "head": "NSCLC",
+    "relation": "表观遗传靶点",
+    "tail": "HDAC、DNMT抑制剂在研",
+    "source": "NCT03075388等",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.70
+  },
+  {
+    "head": "NSCLC",
+    "relation": "PROTAC技术",
+    "tail": "靶向蛋白降解技术用于EGFR/ALK",
+    "source": "NCT05130559等",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.72
+  },
+  {
+    "head": "NSCLC",
+    "relation": "分子胶降解剂",
+    "tail": "靶向BTK等靶点的新策略",
+    "source": "临床前研究",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.68
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "BRG1(SMARCA4)缺失",
+    "tail": "是SCLC新兴治疗靶点",
+    "source": "AACR 2024 / Nature 2024",
+    "evidence": "II级",
+    "domain": "新靶点与新药研发",
+    "confidence": 0.75
+  }
+]
