@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "update_date": "2026-05-08",
+  "total_entries": 48,
+  "duplicates_removed": 0,
+  "source_files": {
+    "biomarkers.json": 8,
+    "csco_2024.json": 17,
+    "epidemiology.json": 15,
+    "nccn_2024.json": 8
+  },
+  "domains": {
+    "外科治疗": 4,
+    "放射治疗": 2,
+    "系统治疗": 20,
+    "流行病学与筛查": 5,
+    "临床诊断与分期": 3,
+    "基因突变与分子机制": 6,
+    "随访与预后": 8
+  }
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "head": "EGFR突变阳性NSCLC",
+    "relation": "一线靶向治疗推荐",
+    "tail": "奥希替尼（Osimertinib）80mg每日一次",
+    "source": "FLAURA研究 (NCT02296125) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "31056043"
+  },
+  {
+    "head": "EGFR突变阳性NSCLC",
+    "relation": "一代TKI一线治疗推荐",
+    "tail": "吉非替尼/厄洛替尼/埃克替尼",
+    "source": "IPASS研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.92,
+    "pmid": "19738129"
+  },
+  {
+    "head": "EGFR突变阳性NSCLC",
+    "relation": "二代TKI一线治疗推荐",
+    "tail": "阿法替尼/达克替尼",
+    "source": "ARCHER 1050研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90,
+    "pmid": "29091516"
+  },
+  {
+    "head": "EGFR T790M突变",
+    "relation": "奥希替尼适应证",
+    "tail": "EGFR T790M突变阳性NSCLC二线治疗",
+    "source": "AURA3研究 (NCT02151981) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "27857016"
+  },
+  {
+    "head": "ALK融合阳性NSCLC",
+    "relation": "一线靶向治疗推荐",
+    "tail": "阿来替尼（Alectinib）600mg每日两次",
+    "source": "ALEX研究 (NCT02075840) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "31142434"
+  },
+  {
+    "head": "ALK融合阳性NSCLC",
+    "relation": "一代TKI",
+    "tail": "克唑替尼（Crizotinib）",
+    "source": "PROFILE 1014研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "ROS1融合阳性NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "克唑替尼/恩曲替尼（Entrectinib）",
+    "source": "STARTRK系列研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.88
+  },
+  {
+    "head": "KRAS G12C突变NSCLC",
+    "relation": "靶向治疗推荐",
+    "tail": "Sotorasib（AMG 510）/ Adagrasib（MRTX849）",
+    "source": "CodeBreaK 100研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.85
+  },
+  {
+    "head": "无驱动基因突变PD-L1高表达NSCLC",
+    "relation": "一线免疫单药治疗推荐",
+    "tail": "帕博利珠单抗（Pembrolizumab）200mg Q3W或400mg Q6W",
+    "source": "KEYNOTE-042 (NCT02220894) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "31180338"
+  },
+  {
+    "head": "无驱动基因突变NSCLC",
+    "relation": "一线免疫联合化疗推荐",
+    "tail": "帕博利珠单抗 + 含铂双药化疗",
+    "source": "KEYNOTE-189 (NCT02578680) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "33439993"
+  },
+  {
+    "head": "晚期非鳞NSCLC",
+    "relation": "一线免疫联合化疗推荐",
+    "tail": "卡铂 + 培美曲塞 + 帕博利珠单抗",
+    "source": "KEYNOTE-189 (NCT02578680) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "33439993"
+  },
+  {
+    "head": "晚期鳞状NSCLC",
+    "relation": "一线免疫联合化疗推荐",
+    "tail": "卡铂 + 紫杉醇/白蛋白紫杉醇 + 帕博利珠单抗",
+    "source": "KEYNOTE-407 (NCT02775435) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "30204562"
+  },
+  {
+    "head": "晚期NSCLC",
+    "relation": "一线四药联合方案推荐",
+    "tail": "卡铂 + 紫杉醇 + 贝伐珠单抗 + 阿替利珠单抗（IMpower150）",
+    "source": "IMpower150 (NCT02366143) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.92,
+    "pmid": "29602737"
+  },
+  {
+    "head": "小细胞肺癌广泛期",
+    "relation": "一线免疫联合化疗推荐",
+    "tail": "卡铂 + 依托泊苷 + 阿替利珠单抗（度伐利尤单抗）",
+    "source": "CASPIAN研究 (NCT03043872) / CSCO SCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.92,
+    "pmid": "31498129"
+  },
+  {
+    "head": "小细胞肺癌广泛期",
+    "relation": "一线免疫联合化疗推荐",
+    "tail": "卡铂 + 依托泊苷 + 度伐利尤单抗（Durvalumab）",
+    "source": "CASPIAN研究 (NCT03043872) / CSCO SCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.92,
+    "pmid": "31498129"
+  },
+  {
+    "head": "晚期NSCLC二线治疗",
+    "relation": "免疫单药推荐",
+    "tail": "帕博利珠单抗（用于既往化疗后PD-L1阳性患者）",
+    "source": "KEYNOTE-010 (NCT01905657) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.90
+  },
+  {
+    "head": "晚期NSCLC三线治疗",
+    "relation": "抗血管生成推荐",
+    "tail": "安罗替尼（Anlotinib）",
+    "source": "ALTER0303研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.88
+  }
+]

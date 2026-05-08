@@ -1,0 +1,74 @@
+[
+  {
+    "head": "NSCLC I期",
+    "relation": "5年生存率",
+    "tail": "70-90%",
+    "source": "NCCN NSCLC 2024 / SEER数据库",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.92
+  },
+  {
+    "head": "NSCLC II期",
+    "relation": "5年生存率",
+    "tail": "50-60%",
+    "source": "NCCN NSCLC 2024 / SEER数据库",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  },
+  {
+    "head": "NSCLC III期",
+    "relation": "5年生存率",
+    "tail": "25-40%",
+    "source": "NCCN NSCLC 2024 / PACIFIC研究",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "NSCLC IV期",
+    "relation": "5年生存率",
+    "tail": "5-10%",
+    "source": "NCCN NSCLC 2024 / SEER数据库",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "广泛期小细胞肺癌",
+    "relation": "2年生存率",
+    "tail": "约10-20%（免疫联合化疗后）",
+    "source": "CASPIAN研究 / IMpower133研究",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.85
+  },
+  {
+    "head": "局限期小细胞肺癌",
+    "relation": "5年生存率",
+    "tail": "约25-30%",
+    "source": "NCCN SCLC 2024",
+    "evidence": "I级",
+    "domain": "随访与预后",
+    "confidence": 0.88
+  },
+  {
+    "head": "早期肺癌术后随访",
+    "relation": "推荐频率",
+    "tail": "前2年每3-6个月1次，2-5年每6-12个月1次，5年后每年1次",
+    "source": "CSCO NSCLC 2024 / NCCN NSCLC 2024",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.92
+  },
+  {
+    "head": "早期肺癌术后随访",
+    "relation": "胸部CT频率",
+    "tail": "前3年每6个月1次，之后每年1次",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级专家共识",
+    "domain": "随访与预后",
+    "confidence": 0.90
+  }
+]

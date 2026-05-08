@@ -1,0 +1,75 @@
+[
+  {
+    "head": "I期非小细胞肺癌",
+    "relation": "标准治疗",
+    "tail": "解剖性肺叶切除 + 纵隔淋巴结清扫",
+    "source": "NCCN NSCLC 2024 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "I期NSCLC",
+    "relation": "不适合手术时推荐",
+    "tail": "立体定向放疗（SBRT/SABR）",
+    "source": "NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "II期非小细胞肺癌",
+    "relation": "标准治疗",
+    "tail": "解剖性肺叶切除 + 纵隔淋巴结清扫 ± 辅助化疗",
+    "source": "NCCN NSCLC 2024 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "III期NSCLC",
+    "relation": "可切除者推荐",
+    "tail": "手术 + 辅助化疗 ± 辅助放疗",
+    "source": "NCCN NSCLC 2024 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "III期不可切除NSCLC",
+    "relation": "标准治疗",
+    "tail": "根治性放化疗（放疗60-66Gy + 含铂同步化疗） + 度伐利尤单抗巩固治疗",
+    "source": "PACIFIC研究 (NCT02125461) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "放射治疗",
+    "confidence": 0.95,
+    "pmid": "28885880"
+  },
+  {
+    "head": "T1-2N0期NSCLC",
+    "relation": "亚肺叶切除适应证",
+    "tail": "心肺功能差不能耐受肺叶切除者，或CT显示纯GGO结节",
+    "source": "NCCN NSCLC 2024 / JCOG0802研究",
+    "evidence": "I级",
+    "domain": "外科治疗",
+    "confidence": 0.90
+  },
+  {
+    "head": "EGFR突变NSCLC脑转移",
+    "relation": "推荐治疗",
+    "tail": "优先考虑奥希替尼（可穿透血脑屏障）",
+    "source": "FLAURA研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "EGFR突变NSCLC脑转移",
+    "relation": "联合治疗推荐",
+    "tail": "奥希替尼 + 全脑放疗/立体定向放射外科",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级专家共识",
+    "domain": "系统治疗",
+    "confidence": 0.88
+  }
+]

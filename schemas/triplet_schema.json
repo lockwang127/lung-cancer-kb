@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "肺癌知识三元组",
+  "description": "肺癌知识库中每条知识三元组的JSON Schema定义",
+  "type": "object",
+  "required": ["head", "relation", "tail", "source", "evidence", "domain"],
+  "properties": {
+    "head": {
+      "type": "string",
+      "description": "实体/概念名称（主语）",
+      "examples": ["非小细胞肺癌", "EGFR突变", "帕博利珠单抗"]
+    },
+    "relation": {
+      "type": "string",
+      "description": "关系谓词（动词短语）",
+      "examples": ["一线治疗推荐", "适应证为", "5年生存率为"]
+    },
+    "tail": {
+      "type": "string",
+      "description": "实体/值/描述（宾语）",
+      "examples": ["帕博利珠单抗", "18-22个月", "EGFR T790M阳性"]
+    },
+    "source": {
+      "type": "string",
+      "description": "原始出处",
+      "examples": ["KEYNOTE-189 (NCT02578680)", "CSCO NSCLC 2024", "NCCN v3.2024"]
+    },
+    "evidence": {
+      "type": "string",
+      "enum": ["I级", "II级", "I级专家共识", "专家共识"],
+      "description": "证据等级"
+    },
+    "domain": {
+      "type": "string",
+      "description": "所属知识域",
+      "examples": ["流行病学与筛查", "系统治疗", "外科治疗"]
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "default": 0.5,
+      "description": "置信度（0.0-1.0）"
+    },
+    "conditions": {
+      "type": "string",
+      "description": "适用条件（可选）",
+      "examples": ["仅限EGFR突变阳性", "仅限IV期"]
+    },
+    "pmid": {
+      "type": "string",
+      "description": "PubMed ID（可选）"
+    },
+    "update_date": {
+      "type": "string",
+      "format": "date",
+      "description": "更新日期（YYYY-MM-DD）"
+    }
+  }
+}

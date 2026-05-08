@@ -1,0 +1,144 @@
+[
+  {
+    "head": "肺癌",
+    "relation": "2022年全球新发病例",
+    "tail": "约226万例",
+    "source": "IARC GLOBOCAN 2022",
+    "evidence": "I级",
+    "domain": "流行病学与筛查",
+    "confidence": 0.98,
+    "pmid": "34450044"
+  },
+  {
+    "head": "肺癌",
+    "relation": "2022年全球死亡人数",
+    "tail": "约180万例",
+    "source": "IARC GLOBOCAN 2022",
+    "evidence": "I级",
+    "domain": "流行病学与筛查",
+    "confidence": 0.98,
+    "pmid": "34450044"
+  },
+  {
+    "head": "中国肺癌",
+    "relation": "2022年新发病例",
+    "tail": "106.06万例",
+    "source": "国家癌症中心/China CANCER STATISTICS 2022",
+    "evidence": "I级",
+    "domain": "流行病学与筛查",
+    "confidence": 0.98,
+    "pmid": "38217133"
+  },
+  {
+    "head": "中国肺癌",
+    "relation": "2022年死亡人数",
+    "tail": "73.33万例",
+    "source": "国家癌症中心/China CANCER STATISTICS 2022",
+    "evidence": "I级",
+    "domain": "流行病学与筛查",
+    "confidence": 0.98,
+    "pmid": "38217133"
+  },
+  {
+    "head": "中国肺癌",
+    "relation": "病死比",
+    "tail": "69%",
+    "source": "国家癌症中心 2022",
+    "evidence": "I级",
+    "domain": "流行病学与筛查",
+    "confidence": 0.95
+  },
+  {
+    "head": "非小细胞肺癌",
+    "relation": "占肺癌比例",
+    "tail": "约85%",
+    "source": "NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.98
+  },
+  {
+    "head": "小细胞肺癌",
+    "relation": "占肺癌比例",
+    "tail": "约15%",
+    "source": "NCCN SCLC 2024",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.98
+  },
+  {
+    "head": "非小细胞肺癌",
+    "relation": "主要亚型包括",
+    "tail": "腺癌（40%）、鳞癌（25-30%）、大细胞癌（10-15%）",
+    "source": "NCCN NSCLC 2024",
+    "evidence": "I级",
+    "domain": "临床诊断与分期",
+    "confidence": 0.95
+  },
+  {
+    "head": "EGFR突变",
+    "relation": "在亚洲肺腺癌中阳性率",
+    "tail": "约50%",
+    "source": "IPASS研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "基因突变与分子机制",
+    "confidence": 0.92,
+    "pmid": "19738129"
+  },
+  {
+    "head": "EGFR突变",
+    "relation": "在西方肺腺癌中阳性率",
+    "tail": "约15%",
+    "source": "IPASS研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "基因突变与分子机制",
+    "confidence": 0.92,
+    "pmid": "19738129"
+  },
+  {
+    "head": "ALK融合",
+    "relation": "在NSCLC中阳性率",
+    "tail": "约3-7%",
+    "source": "PROFILE系列研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "基因突变与分子机制",
+    "confidence": 0.90
+  },
+  {
+    "head": "ROS1融合",
+    "relation": "在NSCLC中阳性率",
+    "tail": "约1-2%",
+    "source": "CSCO NSCLC 2024",
+    "evidence": "I级专家共识",
+    "domain": "基因突变与分子机制",
+    "confidence": 0.88
+  },
+  {
+    "head": "KRAS G12C突变",
+    "relation": "在NSCLC中阳性率",
+    "tail": "约3-13%",
+    "source": "CodeBreaK系列研究 / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "基因突变与分子机制",
+    "confidence": 0.88
+  },
+  {
+    "head": "PD-L1 TPS",
+    "relation": "检测方法",
+    "tail": "免疫组化（IHC）",
+    "source": "NCCN/ESMO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "基因突变与分子机制",
+    "confidence": 0.98
+  },
+  {
+    "head": "PD-L1 TPS≥50%",
+    "relation": "晚期NSCLC一线治疗推荐",
+    "tail": "帕博利珠单抗单药",
+    "source": "KEYNOTE-042 (NCT02220894) / CSCO NSCLC 2024",
+    "evidence": "I级",
+    "domain": "系统治疗",
+    "confidence": 0.95,
+    "pmid": "31180338"
+  }
+]
